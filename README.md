@@ -2,7 +2,7 @@
 - 👀 I’m interested in porous media analysis and geophysics
 - 🌱 I’m currently learning pore network analysis and simulation of flow in porous media.
 - 💞️ I’m looking to collaborate on CFD simulations projects as well as geostatistical analysis. 
-- 📫 How to reach me mm.bagheri@che.sharif.edu
+- 📫 How to reach me matbag@kemi.dtu.dk
 
 <!---
 Matin-Bagheri/Matin-Bagheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
