@@ -1,0 +1,4 @@
+impesFoamChem.C
+RachfordRice.C
+
+EXE = $(FOAM_USER_APPBIN)/impesFoamChem
