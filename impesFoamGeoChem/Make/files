@@ -1,3 +1,0 @@
-impesFoamGeoChem.C
-
-EXE = $(FOAM_USER_APPBIN)/impesFoamGeoChem
